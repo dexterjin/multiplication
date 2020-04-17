@@ -8,4 +8,8 @@ int main(void)
 			printf("%d * %d = %d\n",i, j, i*j);
 
 	printf("Hello World!\n");
+	printf("Hello World!\n");
+	printf("Hello World!\n");
+	printf("Hello World!\n");
+	printf("Hello World!\n");
 }
